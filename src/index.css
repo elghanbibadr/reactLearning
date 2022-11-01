@@ -14,6 +14,7 @@ h1, h2 {
 
 .btn {
   font: inherit;
+  font-weight: 600;
   padding: 0.5rem 1.5rem;
   cursor: pointer;
   border-radius: 4px;
